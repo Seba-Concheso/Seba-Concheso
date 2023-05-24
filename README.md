@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seba-Concheso
-- 👀 Estoy interesado en  aprender sobre  programción y poder conocer gente que ya esté trabajando para orientarme  sobre esta nueva etapa de mi vida         
+- 👀 Estoy interesado en  aprender sobre  programción y poder conocer gente que ya esté trabajando para orientarme  sobre esta nueva etapa de mi vida.        
 - 🌱 Estoy estudiando en un instituto  la carrera de Técnico superior en programación.
 - Además estoy estudiando la carrera Desarrollo Full Stack en Henry.
 - 💞️ Me gustaría colaborar en proyectos de otras personas. Mi idea es nutrirme de sus experiencias y tengo un impulso muy grande por aprender y por ayudarlos.  
