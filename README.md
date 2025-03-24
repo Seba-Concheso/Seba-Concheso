@@ -10,8 +10,8 @@ Acerca de mí
 ###👨‍💻 Desarrollador Web Full Stack.
 📚 Estudié en Henry, una reconocida academia de programación.
 
-🎓 Actualmente, estoy cursando la carrera de 
-###**Técnico Superior en Programación** en Teclab.
+🎓 Soy
+###**Técnico Superior en Programación** estudié en Teclab.
 
 
 - 📫 Comunicate conmigo **sebastianconcheso@gmail.com**
